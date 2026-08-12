@@ -8,5 +8,6 @@ int main(){
     float f= 9.6;
     char ch='s';
     cout<< a <<endl << f <<endl <<ch <<endl;
+    
     return 0;
 }
