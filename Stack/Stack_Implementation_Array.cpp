@@ -71,5 +71,8 @@ int main (){
     s.push(10);
 
     s.peek();
+    cout <<endl;
+    s.pop();
+    s.peek();
 
 }
