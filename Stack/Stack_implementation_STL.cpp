@@ -44,6 +44,7 @@ int main (){
     num.push(8);
     num.push(7);
     num.push(3);
+    num.push(9);
 
     cout << "Top/Peek of the stack : " <<num.top() << endl;
     cout << "Size of stack after insertion : " << num.size() << endl;
