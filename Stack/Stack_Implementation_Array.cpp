@@ -74,5 +74,7 @@ int main (){
     cout <<endl;
     s.pop();
     s.peek();
+    s.pop();
+    s.peek();
 
 }
