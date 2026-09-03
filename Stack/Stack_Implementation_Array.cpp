@@ -69,6 +69,7 @@ int main (){
     s.push(4);
     s.pop();
     s.push(10);
+    s.push(43);
 
     s.peek();
     cout <<endl;
